@@ -1,0 +1,156 @@
+---
+text: 
+  title: Setup Docbox Equipment TEST
+  description: Overview of how to setup DocBox equipment in a hosital room.
+modes: Learn,Test
+images: Lsn2_a.png,Lsn2_b.png
+lms_url: ''
+ordering: 6
+active: false
+overrideByMode: 
+  Test: 
+    text: {description: Please perform the DocBox setup steps for this test. LSN, action: Click the correct items in sequence}
+    waitSwap: {ui.next: skip}
+panels:
+  steps:
+    label: STEPS
+    flavors: steps, AutoFirst
+    list:
+    - id: step_02_010
+      text: 
+        title: Welcome
+        description: Welcome to DocBox Setup Lesson. This lesson is meant for the integration team and is performed only once for each patient room. This lesson will show you how to properly connect and set up a DocBox empowered medical system.
+        action: Click Next to continue
+      wait_for: ui.next
+      show: ui.next, 3d.cow
+      hide: ui.nextTour
+      cameras: OverviewFar,Overview
+
+    - id: step_02_020
+      text: 
+        title: Mount/install the Support Equipment
+        description: The physical mounting of the equipment around the bedside. It will vary somewhat by facility.
+        action: Click Next to continue
+      wait_for: ui.next
+      cameras: 
+
+
+
+    - id: step_02_030
+      text: 
+        title: "- Mount Fanless Hub"
+        description: If not already mounted, mount the wall support and the Advanced Fanless Hub to the wall or equipment column as predetermined by the hospital engineers and the DocBox integration team.
+        action: Click the Fanless Hub
+      wait_for: 3d.FanlessHub
+      cameras: 
+
+
+
+    - id: step_02_040
+      text: 
+        title: "- Mount the Support Arm"
+        description: If not already in place mount the main support arm to the wall support.
+        action: Click the Support Arm
+      wait_for: 3d.SupportArm
+      cameras: 
+
+
+
+    - id: step_02_050
+      text: 
+        title: "- Barcode Scanner Support Arm"
+        description: Ensure the Barcode Scanner Support Arm is attached to the main support arm.
+        action: Click the Barcode Scanner Support Arm to attach it
+      wait_for: 3d.BarcodeScannerSupportArm
+      cameras: 
+
+
+
+    - id: step_02_060
+      text: 
+        title: Set up the Head Unit
+        description: Next, we step through setting up the (all-in-one) head unit (display and processor).
+        action: Click Next to continue
+      wait_for: ui.next
+      cameras: 
+
+
+
+    - id: step_02_070
+      text: 
+        title: " - Prepare Engage One Pro"
+        description: Remove the Engage One Pro from the box and ensure that the 2 cables connected (as shown in the picture) to it at the base are ready to connect.
+        action: Click the Engage One Pro
+      wait_for: 3d.EngageOnePro
+      cameras: 
+
+
+
+    - id: step_02_080
+      text: 
+        title: " - Mount Head Unit"
+        description: Using the bolt holes on the Slim Vesa Mount, mount the head unit to the support arm.
+        action: Click the Head Unit to mount it
+      wait_for: 3d.MountHeadUnit
+      cameras: 
+
+
+
+    - id: step_02_090
+      text: 
+        title: " - Connect Network Cable"
+        description: Connect the other end of the network cable to a hospital network jack (typically located near the bedside)
+        action: Click Network Cable to connect it
+      wait_for: 3d.NetworkCable
+      cameras: 
+
+
+
+    - id: step_02_170
+      text: 
+        title: THE END
+        description: Please open another lesson or try this lesson in another mode
+        action: Open a lesson in the top left menu
+      wait_for: forever
+      cameras: Overview
+      overrideByMode: {Test: {text: {title: THE END, description: Please open another lesson or try this lesson in another mode, action: Open a lesson in the top left menu}   }}
+
+  tours:
+    label: "TOURS::::::"
+    flavors: tours
+    list:
+    - text:
+        title: DocBox touchscreen
+        text: ''
+      cameras: Bedside
+      highlight: /eq/docbox/frame
+      pointAt: /eq/docbox/screen
+      tour3dText:
+        title: DocBox
+        text: Touchscreen interface for patient data
+
+    - text:
+        title: Overview
+        text: ''
+      cameras:
+      - overview
+
+  tools:
+    label: TOOLS
+    flavors: toggles,cleared
+    list:
+    - tourText:
+        title: DocBox touchscreen
+        text: ''
+      cameras: Bedside
+      highlight: /eq/docbox/frame
+      pointAt: /eq/docbox/screen
+      tour3dText:
+        title: DocBox
+        text: Touchscreen interface for patient data
+
+    - tourText:
+        title: Overview
+        text: ''
+      cameras:
+      - overview

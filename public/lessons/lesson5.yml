@@ -1,0 +1,78 @@
+---
+text: 
+  title: DocBox Login / Logout
+  description: Login & logout of DocBox equipment in a hosital room.
+modes: Learn,Test
+images: ''
+lms_url: ''
+ordering: 5
+active: false
+overrideByMode: 
+  Test:  
+    text: {description: Please perform the Lesson 5 ________ steps for this test.}
+    waitSwap: {ui.next: skip}
+panels:
+  steps:
+    label: STEPS
+    flavors: sequence
+    list:
+
+    - id: step_05_010
+      text: 
+        title: Welcome to Lesson ___________
+        text: In this lesson, you will ______ | 03_10
+        action: Click Next to continue | 03_10
+      wait_for: ui.next
+      cameras: Overview,Scanner
+      overrideByMode: {Test: {wait_for: skip}}
+
+    - id: step_05_20
+      text:
+        title: ___
+        description: ___
+        action: ___
+      wait_for: ui.next
+      overrideByMode: 
+        Test: 
+          text: {title: _03_20_, description: Example - PER STEP BY MODE OVERRIDE!!!, action: A}
+
+    - id: step_05_30
+      text:
+        title: ___
+        description: ___
+        action: ___
+      wait_for: ui.next
+
+    - id: step_05_40
+      text:
+        title: ___
+        description: ___
+        action: ___
+      wait_for: ui.next
+
+    - id: step_05_500
+      text: 
+        title: THE END
+        description: Please open another lesson or try this lesson in another mode
+        action: Open a Lesson in the top left menu
+      wait_for: forever
+      cameras: Overview
+      overrideByMode: {Test: {text: {title: THE END, text: Please open another lesson or try this lesson in another mode, action: Open a lesson in the top left menu}   }}
+
+  tours: 
+    label: TOURS
+    flavors: explore
+    list:
+    - tourText:
+        title: Bedrail
+        text: ''
+      cameras: bedside
+      highlight: "/bed/bed_rails/right"
+      pointAt: "/bed/bed_rails/right/handle"
+      tour3dText:
+        title: Bed rails
+        text: "<br/>The bed rails are stainless steel for easy sanitization."
+    - tourText:
+        title: Overview
+        text: ''
+      cameras: overview

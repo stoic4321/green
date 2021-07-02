@@ -1,0 +1,3077 @@
+EXPLORE
+Lesson 1
+
+Explore DocBox Equipment
+lesson_01
+
+The DocBox Clinician Solution is an integrated system that collects and manages information on an individual patient from healthcare professionals, medical, other devices, and hospital information systems at the point of care. In addition, the DocBox Clinician Solution provides the ability to run sophisticated software applications at the bedside. Click NEXT to continue.
+NEXT
+            	WELCOME
+The user will navigate through the list of steps to the left, clicking the highlighted "next" button to move from one screen to the next.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables     
+Lesson Complete       
+  
+
+4
+             EXPLORE
+step_01_040
+
+This is the main user interface. It is a combination computer and touchscreen display. You will see the login screen showing when you first use the display.Click NEXT to continue.
+NEXT
+            	HP ENGAGE ONE PRO ALL IN ONE PC 
+When the user clicks on this step, the camera auto-navigates to the Engage One Pro, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Engage One Pro and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables  
+Lesson Complete          
+
+4
+            EXPLORE
+step_01_040
+
+The Advanced Fanless Hub is connected to the HP Engage One Pro,
+the additional 10" external touch display (if present), the barcode scanner, and the primary device adaptor. It also provides additional connection ports for the HP Engage One Pro.Click NEXT to continue.
+NEXT
+            	ADVANCED FANLESS HUB
+When the user clicks on this step, the camera auto-navigates to the AFH, to center on the screen in the 3D environment. The user clicks on the highlighted virtual AFH and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables           
+Lesson Complete 
+
+step_01_040
+
+This is the barcode scanner handset. 
+When a new medical device is added, you will scan the barcode on the device using this handset. It also allows users/operators (doctors and nurses) to login to the system using the barcode on their ID badge. 
+
+*Depending on setup, it can also be used to scan in the patient’s MRN, admitting the patient to the DocBox Clinician Assistant.Click NEXT to continue.
+NEXT
+            	BARCODE SCANNER HANDSET
+When the user clicks on this step, the camera auto-navigates to the Barcode Scanner, to center on the screen in the 3D environment. The user clicks on the highlighted virtual barcode scanner and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+             EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables    
+Lesson Complete        
+
+step_01_040
+
+This Barcode Scanner Handset Holder is mounted next to the Engage One Pro, and holds the barcode scanner handset when not in use.Click NEXT to continue.
+NEXT
+            	BARCODE SCANNER HANDSET HOLDER
+When the user clicks on this step, the camera auto-navigates to the Barcode Scanner Holder, to center on the screen in the 3D environment. The user clicks on the highlighted virtual barcode scanner holder and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables           
+Lesson Complete 
+
+step_01_040
+
+There are usually at least one (possibly 2) Device Adapters next to the bed. A Device Adapter is used to connect medical devices equipped with a serial port to the DocBox CLinician Solution. 
+*If a Device Adapter is present, it will be mounted next to the Engage One Pro.
+Click NEXT to continue.
+NEXT
+            	DEVICE ADAPTER
+When the user clicks on this step, the camera auto-navigates to the Device Adapter, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Device Adapter and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+             EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables      
+Lesson Complete      
+
+step_01_040
+
+There are usually at least one (possibly 2) Ethernet Switches next to the bed. These allow medical devices equipped with an ethernet port/RJ45 port to be connected to DocBox Clinician Solution.
+
+* If one is present, it will be mounted next to the HP Engage One Pro.
+
+Click NEXT to continue.
+NEXT
+            	ETHERNET SWITCH
+When the user clicks on this step, the camera auto-navigates to the Ethernet Switch, to center on the screen in the 3D environment. The user clicks on the highlighted virtual ethernet switch and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+           EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables    
+Lesson Complete        
+
+step_01_040
+
+The 10" Touch Display (if present) is an additional monitor sometimes present in the room.
+
+
+Click NEXT to continue.
+NEXT
+            	10" TOUCH DISPLAY
+When the user clicks on this step, the camera auto-navigates to the 10" Touch Display, to center on the screen in the 3D environment. The user clicks on the highlighted virtual 10" touch display and then clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+             EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables      
+Lesson Complete      
+
+step_01_040
+
+Supports the Engage One Pro. Allows some positioning and convenience for the operator. Attached to the head wall (wall at the head of the bed) or equipment column, depending on the facility.
+
+
+Click NEXT to continue.
+NEXT
+            	SUPPORT ARM
+When the user clicks on this step, the camera auto-navigates to the Support Arm, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Support Arm and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables  
+Lesson Complete          
+
+step_01_110 
+
+The Scanner Support holds the handheld barcode scanner. Operator can position equipment for convenient use. 
+The support is attached to the head wall (wall at the head of the bed) or a specialized equipment column, depending on the facility.
+Click NEXT to continue.
+NEXT
+            	BARCODE SCANNER SUPPORT 
+When the user clicks on this step, the camera auto-navigates to the Barcode Scanner Support, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Barcode Scanner Support and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables   
+Lesson Complete         
+
+step_01_110 
+
+The DocBox Clinician Assistant equipment is connected using network cables, USB A & C cables and power cables. 
+*Cables may be color coded.
+
+Click NEXT to continue.
+NEXT
+            	CABLES 
+When the user clicks on this step, a pop up picture of the different cables shows on the screen. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables 
+Lesson complete           
+
+step_01_110 
+
+You have now completed Lesson 1! When you click on the next button you will be taken to the welcome screen for Lesson 2, or you may open a lesson in the top left menu.
+
+Click NEXT to continue.
+NEXT
+            	LESSON COMPLETE 
+When the user clicks on this step, the screen displays the following text: "You have completed this lesson! Please click on the next button to begin Lesson 2." The user clicks on the highlighted next button to proceed to Lesson 2.
+LESSONS
+1
+2
+3
+MENU
+Lesson 1
+Explore Docbox Equipment:
+Familiarize yourself with the DocBox equipment. 
+4
+            EXPLORE
+Steps
+Welcome
+Engage One Pro                  
+Fanless Hub                
+Barcode Scanner         Handset 
+Barcode Scanner Handset Holder
+Device Adapter 
+Ethernet Switch 
+10" touch display
+Support Arm 
+Barcode Scanner Support 
+Cables    
+Lesson Complete        
+
+step_01_040
+
+LEARN
+TEST
+Lesson 2
+
+Set Up DocBox Equipment
+lesson_02
+
+This lesson will demonstrate to you how to mount the equipment around the bedside. It will vary somewhat by facility. For the purposes of this demonstration, we will be mounting the equipment to the equipment column.
+
+Click NEXT to continue.
+NEXT
+            	WELCOME
+The user will navigate through the list of steps to the left, clicking the highlighted "next" button to move from one screen to the next.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+
+Steps
+ 1. Welcome
+ 2. Install Equipment 
+ 3. Prepare Engage One Pro
+ 4. Connect Device Adapter
+ 5. Final Setup Tasks
+ 6 Checklist  
+ 7. Lesson Complete 
+              
+ 
+4
+             LEARN
+step_02_010 
+
+If not already mounted, mount the support arm to the equipment column. Click NEXT to continue.
+NEXT
+            	MOUNT/INSTALL SUPPORT EQUIPMENT
+When the user clicks on this step, a pop up picture shows on the screen of the mounted support arm attached to the equipment column. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_030 
+
+If not already mounted, mount the Advanced Fanless Hub to the equipment column. 
+
+Click NEXT to continue.
+NEXT
+            	ADVANCED FANLESS HUB
+When the user clicks on this step, the camera auto-navigates to the AFH, to center on the screen in the 3D environment. The user clicks on the highlighted AFH and then clicks on the equipment column. The AFH then moves to the equipment column. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_040 
+
+Ensure the Barcode Scanner Support arm is attached to the Main Support Arm.
+Click NEXT to continue.
+NEXT
+            	BARCODE SCANNER SUPPORT ARM
+When the user clicks on this step, a picture of the mounted barcode scanner support arm is shown. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_060 
+
+To prepare the Engage One Pro, you will need to: unbox it, mount it, and plug in network cables. 
+
+
+Click NEXT to continue.
+NEXT
+            	PREPARE ENGAGE ONE PRO
+The user clicks on the highlighted next button to begin the installation process.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+Unbox
+Mount
+Cable
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_070 
+
+Remove the Engage One Pro from the box and ensure that the 2 cables connected (as shown in the picture) to it at the base are ready to connect.
+Click NEXT to continue.
+NEXT
+            	UNBOX
+When the user clicks on this step, the camera auto-navigates to a picture of the Engage One Pro with the cables connected. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+Unbox
+Mount
+Cable
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_070 
+
+Using the bolt holes on the Slim Vesa Mount, mount the head unit to the support arm.
+
+Click NEXT to continue.
+NEXT
+            	MOUNT
+When the user clicks on this step, a picture of the Slim Vesa Mount (looking at the bolt holes) is shown on the screen. The user clicks on the highlighted Slim Vesa Mount and this prompts a video sequence of the mount moving to the support arm. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+Unbox
+Mount
+Cable
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_070 
+
+Connect the other end of the network cable to a hospital network jack (typically located near the bedside).
+ Click NEXT to continue.
+NEXT
+            	NETWORK CABLES
+When the user clicks on this step, a picture of the network jack with the cable inserted is shown on the screen and they see it become connected. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  Welcome
+  Install Equipment
+Supports
+Advanced Fanless Hub
+Barcode Scanner Support Arm 
+  Prepare Engage One Pro
+Unbox
+Mount
+Cable
+Barcode Scanner 
+USB
+Attach Barcode Scanner
+  Connect Device Adapter
+  Final Setup Tasks
+  Checklist  
+  Lesson Complete 
+              
+ 
+step_02_070 
+
+If not already installed connect the USB barcode scanner cable to the barcode scanner.Click NEXT to continue.
+NEXT
+            	BARCODE SCANNER USB
+When the user clicks on this step, a picture of the barcode scanner with the USB cable attached is shown and then they see it become connected. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6 Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+Attach the Barcode Scanner Cradle to the Barcode Scanner Support Arm.
+ Click NEXT to continue.
+NEXT
+            	ATTACH BARCODE SCANNER 
+When the user clicks on this step, a picture of the the barcode scanner cradle mounted onto the support arm is shown. The user sees the scanner connected. The user then clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  5. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+The Advanced Fanless Hub connects to the: Touch Display, the Barcode Scanner, the ICE unit, the Ethernet Switch, and to Power.
+Click NEXT to continue.
+NEXT
+            	CONNECT ADVANCED FANLESS HUB
+The user will click on each of these and watch as they become connected.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+Connect the USB-C cable from the main touch display unit to the USB-C port of the Advanced Fanless Hub. Ensure you are using the proper port, which is the USB-C port closest to the main power port. Finger-tighten the retaining screw on the cable.
+Click NEXT to continue.
+NEXT
+            	TO TOUCH DISPLAY 
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+Connect the USB-A cable from the barcode scanner to any 1 of the 4 USB ports on the AFH.
+ Click NEXT to continue.
+NEXT
+            	TO BARCODE SCANNER
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+Connect one end of ICE network cable (cat5e, black, 6ft) to the network port of the Advanced Fanless Hub.
+ Click NEXT to continue.
+NEXT
+            	TO NETWORK CABLE
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  12. Welcome
+  13. Install Equipment 
+  14. Prepare Engage One Pro
+  15. Connect Device Adapter
+  16. Final Setup Tasks
+  17. Checklist  
+  18. Lesson Complete 
+              
+ 
+step_02_120 
+
+Connect the other end of the network cable to the Ethernet Switch (in some cases, there may be more than one switch. If you require extra ethernet ports for additional equipment, please also attach the second ethernet switch. 
+Click NEXT to continue.
+NEXT
+            	TO ETHERNET SWITCH 
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_120 
+
+Connect the power connector of the power adapter to the power port of the Advanced Fanless Hub and then connect the power adapter to a wall outlet. 
+ Click NEXT to continue.
+NEXT
+            	TO POWER
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete  
+              
+ 
+step_02_190
+
+If not already connected, connect the keyed end of the flat USB-C cable to the back connector of the 10" External Touch Display.
+
+Connect the other end of the flat USB-C cable to the USB-C port of the Advanced Fanless Hub. (The USB-C port closest to one end of the AFH.)
+ Click NEXT to continue.
+NEXT
+            	MOUNT OPTIONAL 10" TOUCH DISPLAY
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_190
+
+The Ethernet Switch needs to be connected to the Device Adapter using a network cable and to power using a Power Adapter. 
+Click NEXT to continue.
+NEXT
+            	CONNECT ETHERNET SWITCH
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_220
+
+Connect one end of a (possibly color-coded) network cable to the Ethernet Switch.
+ Click NEXT to continue.
+NEXT
+            	FROM SWITCH CAT5...
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete  
+              
+ 
+step_02_220
+
+Connect the other end of that network cable to the network port (labelled "Network") of the Device Adapter. Click NEXT to continue.
+NEXT
+            	...TO DEVICE ADAPTER CAT5
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete  
+              
+ 
+step_02_220
+
+Connect one end of the Ethernet Switch power adapter to the power port of the Ethernet Switch.
+Click NEXT to continue.
+NEXT
+            	FROM SWITCH POWER PORT...
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_220
+
+Connect the other end of the Ethernet Switch power adapter cable to a Wall Outlet.
+ Click NEXT to continue.
+NEXT
+            	...TO WALL OUTLET
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4 Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete  
+              
+ 
+step_02_220
+
+In addition to a network connection to the Ethernet Switch, the Device Adapter needs to be connected to power. Click NEXT to continue.
+NEXT
+            	CONNECT DEVICE ADAPTERS 
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_220
+
+Connect one end of the Device Adapter (DA) power adapter to the Power Port of the Device Adapter.
+Click NEXT to continue.
+NEXT
+            	FROM DA POWER PORT... 
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_220
+
+Connect the other end of the power adapter cable to a Wall Outlet.Click NEXT to continue.
+NEXT
+            	...TO WALL OUTLET  
+The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete
+              
+ 
+step_02_290
+
+The  final steps of setup include: neatening the cables, placing the barcode scanner, powering up, and running through the checklist. Click NEXT to continue.
+NEXT
+                FINAL SETUP TASKS 
+The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_290
+
+Tap the cables to neaten them.  Click NEXT to continue.
+NEXT
+                NEATEN CABLES  
+The user will tap the cables and watch as a neatened cable state is shown. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_290
+
+Tap the barcode scanner to place it. 
+
+
+Click NEXT to continue.
+NEXT
+                PLACE BARCODE SCANNER 
+The user will click on the barcode scanner and watch as it is placed in the barcode scanner cradle. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_320
+
+Power up all equipment. Click NEXT to continue.
+NEXT
+                POWER UP 
+The user will click on each of the pieces of equipment and watch as they become powered up. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_320
+
+Neaten up all cabling - ensure there is no excess cable. Make sure no cabling is pinched or bent sharply. Secure cables with zip-ties. Cut and remove excess zip-ties.
+Seat the barcode scanner handset into the barcode scanner cradle.
+Power up the equipment.
+Move through the component checklist to ensure all components are connected and functioning as expected.
+Click NEXT to continue.
+NEXT
+                CHECKLIST 
+The user will click on each of these checklist items and a green checkmark will be shown next to the checklist step. The user then clicks on the next button to go onto the next step.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_320
+
+You have now completed Lesson 2! When you click on the next button you will be taken to the welcome screen for Lesson 3, or open a lesson in the top left menu.Click NEXT to continue.
+NEXT
+                LESSON COMPLETE 
+When the user clicks on this step, the screen displays the following text: "You have completed this lesson! Please click on the next button to begin Lesson 3." The user clicks on the highlighted next button to proceed to Lesson 3.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 2
+Set Up Docbox Equipment
+Overview of how to setup DocBox equipment in a hospital room.
+
+4
+             LEARN
+Steps
+  1. Welcome
+  2. Install Equipment 
+  3. Prepare Engage One Pro
+  4. Connect Device Adapter
+  5. Final Setup Tasks
+  6. Checklist  
+  7. Lesson Complete 
+              
+ 
+step_02_320
+
+Lesson 3
+
+DocBox Power On/Off
+LEARN
+TEST
+lesson_03
+
+This lesson will show you how to correctly power on and power off a set of connected DocBox equipment.
+
+
+Click NEXT to continue.
+NEXT
+            	WELCOME
+The user will navigate through the list of steps to the left, clicking the highlighted "next" button to move from one screen to the next.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+Steps
+  Welcome
+  Power On Engage One Pro                  
+  Power on Device Adapter                 
+  Loading Screen
+  Lock Screen 
+  Power Off Engage One Pro 
+  Shut Down Message
+  System Powers Off
+  Device Adapter Power Off 
+  Device Adapter Display 
+  Lesson Complete                
+  
+
+4
+             LEARN
+step_03_010
+
+Tap the power button on the HP Engage One Pro All in One PC to start the system.
+
+
+Click NEXT to continue.
+NEXT
+            	POWER-ON ENGAGE ONE PRO
+When the user clicks on this step, the camera auto-navigates to the Engage One Pro, to center on the screen in the 3D environment. The user clicks on the highlighted power button on the virtual Engage One Pro and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_020
+
+Press the switch on the back of each device adapter.
+
+
+Click NEXT to continue.
+NEXT
+            	POWER-ON DEVICE ADAPTER
+When the user clicks on this step, the camera auto-navigates to the device adapter, to center on the screen in the 3D environment. The user clicks on the highlighted switch on the back of the virtual device adapter and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+The HP Engage One Pro All in One PC will display a loading screen while the software and system are starting up. 
+
+Click NEXT to continue.
+NEXT
+            	LOADING SCREEN
+When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen showing the loading screen. The user is prompted to click on the next button. The screen stays centered on the virtual EOP loading screen.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter          
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+Once the The HP Engage One Pro All in One system and software have booted up, the HP Engage One Pro All in One screen will display the Lock Screen.
+
+Click NEXT to continue.
+NEXT
+            	LOCK SCREEN
+When the user clicks on this step, the camera remains on with the virtual Engage One Pro screen in the 3D environment, to center on the user screen, and will display the Lock Screen. The user is prompted to click on the next button. The screen stays centered on the virtual EOP lock screen.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+Tap the power button once on the HP Engage One Pro All in One PC.
+
+Click NEXT to continue.
+NEXT
+            	POWER OFF ENGAGE ONE PRO
+When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro device in the 3D environment, to center on the user screen. The user clicks on the highlighted power button on the Engage One Pro device and then clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+When the power button on the HP Engage One Pro All In One PC is tapped, a shut down message appears on the screen.
+
+*Note: The shutdown message could take several seconds to appear after tapping the power button.
+Click NEXT to continue.
+NEXT
+            	SHUT DOWN MESSAGE
+             LEARN
+When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, which is displaying the shut down message. The user is prompted to click on the highlighted next button.
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+The system powers off.
+
+Click NEXT to continue.
+NEXT
+            	SYSTEM POWERS OFF
+When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, showing a black screen. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+Press the switch on the back of each device adapter.
+
+Click NEXT to continue.
+NEXT
+            	DEVICE ADAPTER POWER OFF
+When the user clicks on this step, the camera auto-navigates to the back of the virtual device adapter in the 3D environment, to center on the user screen, and the user clicks on the highlighted device switch at the back of the device adapter. The user clicks on the highlighted next button..
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+If there is a display, the device adapter display powers off.
+
+
+Click NEXT to continue.
+NEXT
+            	DEVICE ADAPTER DISPLAY
+When the user clicks on this step, the camera auto-navigates to the virtual device adapter display in the 3D environment, to center on the user screen, showing a powered off display. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+You have now completed Lesson 3! When you click on the next button you will be taken to the welcome screen for Lesson 4, or open a lesson in the top left menu.
+
+
+Click NEXT to continue.
+NEXT
+            	LESSON COMPLETE
+When the user clicks on this step, the screen displays the following text: "You have completed this lesson! Please click on the next button to begin Lesson 4." The user clicks on the highlighted next button to proceed to Lesson 4.
+LESSONS
+1
+2
+3
+MENU
+Lesson 3
+Docbox Power On/Off
+Overview of how to properly power on and power off connected DocBox equipment in a hospital room.
+4
+             LEARN
+Steps
+Welcome
+Power On Engage One Pro                  
+Power on Device Adapter                 
+Loading Screen
+Lock Screen 
+Power Off Engage One Pro 
+Shut Down Message
+System Powers Off
+Device Adapter Power Off 
+Device Adapter Display 
+Lesson Complete                
+  
+
+step_03_030
+
+Lesson 4
+
+DocBox Login / Logout
+LEARN
+TEST
+lesson_04
+
+Welcome to this overview of how to properly login to and logout of the DocBox touch interface in a hospital room.
+
+The DocBox Clinician Solution allows more than one user to be logged on at once to facilitate patient care, and allows for login using the barcode scanner or manual entry. This guide will show you how to login both ways.
+Click NEXT to continue.
+NEXT
+            	WELCOME: LESSON 4 - DOCBOX LOGIN AND LOGOUT
+The user will navigate through the list of steps to the left, clicking the highlighted "next" button to move from one screen to the next.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+4
+             LEARN
+step_04_010 
+
+There are two ways to login a user. Either with the barcode scanner (if one is available) or through manual entry of the user login details.
+
+First, make sure the HP Engage One Pro All in One PC is displaying the login screen.
+Click NEXT to continue.
+NEXT
+            	USER LOGIN
+When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, showing the login screen. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+If your DocBox Clinician System is equipped with a barcode scanner, follow the next step showing how to scan the user barcode. If you don’t have a barcode scanner, go to the "Tap Username Field" step.Click NEXT to continue.
+NEXT
+            	USER LOGIN - BARCODE SCANNER OPTION
+When the user clicks on this step, the camera auto-navigates to the barcode scanner in the 3D environment. The user clicks on the highlighted barcode scanner and then the user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Remove the barcode scanner from its cradle and use it to scan your supplied user barcode. 
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - SCAN USER BARCODE
+When the user clicks on this step, the camera auto-navigates to the barcode scanner in the 3D environment. The user clicks on the highlighted barcode scanner, the supplied user barcode is then highlighted and the user clicks on that. The scanner auto-navigates to the user barcode and scans it.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+If you are not able to scan your user barcode, tap on the username field on the HP Engage One Pro All in One interactive screen. A virtual keyboard will appear.
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - MANUAL ENTRY - TAP USERNAME FIELD
+When the user clicks on this step, the camera auto-navigates to the EOP login screen and clicks on the highlighted "username" button.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Manually type in your username into the username field and tap the "ENTER" button. 
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - MANUAL ENTRY - TYPE USERNAME
+When the user clicks on this step, the camera auto-navigates to the EOP username screen with the virtual keyboard showing, and clicks on the highlighted "username" field.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap the "LOGIN" button.
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - MANUAL ENTRY - TAP LOGIN
+When the user clicks on this step, the camera auto-navigates to the EOP username screen and clicks on the highlighted "login" button.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+After a user has logged in, others can login to signify additional personnel at the bedside. This can be accomplished  by scanning another user barcode or tapping on the "OPERATOR PROFILE" button and manually entering a username.
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN
+When the user clicks on this step, the camera auto-navigates to the EOP interactive screen showing the "operator profile."The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Additional users can be logged into the system by scanning their assigned user barcodes with the barcode scanner.
+
+Remove the barcode scanner from its cradle and use it to scan the assigned user barcode.
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - BARCODE SCANNER
+When the user clicks on this step, the camera auto-navigates to the barcode scanner. The user clicks on the barcode scanner, it comes out of its cradle and the user then clicks on the user barcode. The scanner moves to the user barcode and "scans" the barcode.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+If you are not able to scan the user barcode, tap on the "OPERATOR PROFILE" button on the left of the HP Engage One Pro All in One PC interactive screen.Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - MANUAL ENTRY
+When the user clicks on this step, the camera auto-navigates to the EOP interactive screen. The user clicks on the highlighted "operator profile" button.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap the "LOGIN" button on the Operator Profiles screen.
+
+
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - MANUAL ENTRY
+When the user clicks on this step, the camera auto-navigates to the EOP interactive Operator Profiles screen. The user clicks on the highlighted "login" button.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Manually type in the username and tap the "ENTER" button. 
+
+
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - MANUAL ENTRY
+When the user clicks on this step, the camera auto-navigates to the EOP interactive username screen. The user clicks on the highlighted "username" field and the onscreen keyboard will appear. The "enter" button then highlights and the user clicks on that.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap on the "LOGIN" button.
+
+
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - LOGIN BUTTON
+When the user clicks on this step, the camera auto-navigates to the EOP interactive username screen. The user clicks on the highlighted "login" button.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap the "HOME" button to confirm that you have successfully logged into the system. On this screen, check that your Operator Profile is listed. If you do not see your Operator Profile, you have not successfully logged in and must try again.
+
+*Note: The DocBox Clinician Assistant Solution allows more than one user to be logged in at the same time to facilitate patient care.
+
+Click NEXT to continue.
+NEXT
+            	USER LOGIN - OTHER USERS LOGIN - HOME BUTTON
+When the user clicks on this step, the camera auto-navigates to the EOP interactive login screen. The user clicks on the highlighted "home" button and the screen changes to the home screen with "test" operator profiles listed.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+All users must log out when they are no longer using the DocBox Clinician Assistant Solution (i.e., when a user has finished their shift, or when a user has left the area).
+
+Users can log out either using the barcode scanner, or manually.
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT
+When the user clicks on this step, the camera auto-navigates to the EOP interactive login screen. Nothing else happens.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Scan your supplied user barcode using the barcode scanner. Scanning your user barcode results in automatically logging out the user.
+
+Remove the barcode scanner from its cradle and use it to scan the assigned user barcode.
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT - BARCODE SCANNER OPTION
+When the user clicks on this step, the camera auto-navigates to the barcode scanner. The user clicks on the barcode scanner, it comes out of its cradle and the user then clicks on the user barcode. The scanner moves to the user barcode and "scans" the barcode.The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+If you are not able to scan the user barcode to logout automatically, tap on the "OPERATOR PROFILE" button on the left of the HP Engage One Pro All in One PC interactive screen.
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT - MANUAL ENTRY OPTION
+When the user clicks on this step, the camera auto-navigates to the EOP interactive screen. The user clicks on the highlighted "operator profile" button.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap the "LOGOUT" button.
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT - LOGOUT BUTTON
+When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted "Logout" button.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile - Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Select one or more user profiles. 
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT - SELECT USER PROFILES
+When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted operator profile to select it.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Tap the "LOGOUT SELECTED" button in the bottom right corner of the screen.
+
+
+
+
+
+Click NEXT to continue.
+NEXT
+            	USER LOGOUT - FINAL LOGOUT
+When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted "Logout Selected" button. The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+CONGRATULATIONS!
+
+You have now completed Lesson 4!  
+When you click on the next button you will be taken to the welcome screen for Lesson 5, or open a lesson in the top left menu.
+
+
+Click NEXT to continue.
+NEXT
+            	LESSON COMPLETE
+When the user clicks on this step, the screen displays the following text: "You have completed this lesson! Please click on the next button to begin Lesson 5." The user clicks on the highlighted next button to proceed to Lesson 5.
+LESSONS
+1
+2
+3
+MENU
+Lesson 4
+Docbox Login / Logout
+This is an overview of how to properly login and logout of the DocBox touch interface in a hospital room.
+
+4
+             LEARN
+Steps
+Welcome
+User Login
+Barcode Scanner Option
+Scan User Barcode
+Tap Username Field
+Type Username
+Tap Login
+Other Users Login
+Barcode Scanner Option
+Manual Entry Option
+Login Button
+Login Continued
+Operator Profile List
+User Logout 
+Scan Barcode
+Manual Entry Option 
+Operator Profile
+Logout Button
+Select User Profiles
+Final Logout
+Lesson Complete
+
+          
+  
+
+step_04_010 
+
+Lesson 5
+
+Admitting and Discharging a Patient
+LEARN
+TEST
+lesson_05
+
+To collect physiological data for a particular patient the patient must be admitted to the DocBox Clinician Solution. The previous patient must be discharged before admitting a new patient.
+Follow the instructions in "Discharging a Patient" Lesson 6 to discharge the patient if needed, before admitting a new patient.Click NEXT to continue.
+NEXT
+            	WELCOME
+The user will navigate through the list of steps to the left, clicking the highlighted "next" button to move from one screen to the next.
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+4
+             LEARN
+5
+step_05_010 
+
+If no patient is currently admitted to the system, go to the home screen and tap the "Add Patient Button" on the top left side of the screen on the HP Engage One Pro All in One PC. The "Add Patient" Screen appears.
+
+
+Click NEXT to continue.
+NEXT
+            	ADD PATIENT BUTTON
+When the user clicks on this step, the camera auto-navigates to the EOP interactive home screen. The user clicks on the highlighted "Add Patient" button in the top left.
+The user clicks on the highlighted next button.
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+The HP Engage One Pro All in One PC screen should now be displaying the "Add Patient" screen. Using the barcode scanner, scan the patient’s barcode label. Scanning this barcode automatically enters a medical record number into the MRN field.
+
+Click NEXT to continue.
+NEXT
+            	SCAN PATIENT BARCODE
+When the user clicks on this step, the camera auto-navigates to the barcode scanner. The user clicks on the barcode scanner, it comes out of its cradle and the user then clicks on the patient barcode label on their wristband. The scanner moves to the patient’s wrist and "scans" the barcode.The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+You now will be prompted to manually enter the patient’s last name, first name and DOB (by tapping on each field and entering the information using the onscreen keyboard). You are not required by DocBox to enter the name and DOB if the MRN is present and scanned.
+
+Click NEXT to continue.
+NEXT
+            	ENTER PATIENT DETAILS
+When the user clicks on this step, the camera auto-navigates to the EOP Admit Patient screen. The patient’s last name field is highlighted and the user clicks on it. Then the first name field is highlighted and the user clicks on it, then the DOB field is highlighted and clicked.The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+Once the desired patient information has been entered, tap the "+ Add Patient" button.
+*Note: The patient’s last name, first name, and date of birth are not required if a patient barcode is scanned.
+*Note: The ADD PATIENT button only appears if there is no patient admitted to the system.Click NEXT to continue.
+NEXT
++ADD PATIENT
+When the user clicks on this step, the camera auto-navigates to the EOP Admit Patient screen. The "+ Add Patient" button is highlighted and the user clicks on this button.The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+You have now added your patient to the DocBox Clinician Assistant SolutionClick NEXT to continue.
+NEXT
+PATIENT ADMISSION CONFIRMATION
+When the user clicks on this step, the camera auto-navigates to the EOP Admit Patient confirmation screen.
+The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+When the Clinician Assistant Solution is no longer being used for a patient (i.e., the patient is moved to another bed or discharged from the hospital), the patient must be discharged.
+The following steps will guide you through the system process needed to discharge a patientClick NEXT to continue.
+NEXT
+DISCHARGING A PATIENT
+When the user clicks on this step, the camera auto-navigates to the EOP Home screen. 
+The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+Tap the PATIENT INFO button on the left side of the screen. 
+The Patient information screen appears.
+Click NEXT to continue.
+NEXT
+PATIENT INFO SCREEN
+When the user clicks on this step, the camera auto-navigates to the EOP Home screen and the "Patient Info" button is highlighted. The user clicks on it and the Patient Information screen appears.
+The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+Tap the DISCHARGE PATIENT button, which is on the bottom right of the screen.
+Click NEXT to continue.
+NEXT
+DISCHARGE PATIENT BUTTON
+When the user clicks on this step, the camera auto-navigates to the EOP Patient Information screen and the "Discharge Patient" button in the lower right corner is highlighted. The user clicks on it. The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 
+
+Tap the YES button in the popup window that now appears on your screen. This discharges the patient.
+Once a patient is discharged, another patient can be admitted.
+Click NEXT to continue.
+NEXT
+DISCHARGE PATIENT CONFIRMATION
+When the user clicks on this step, the camera auto-navigates to the EOP Patient Information screen with a pop up window in front containing a request for confirmation of discharge (yes/no). The "yes" button is highlighted. The user clicks on it. The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirmation 
+Lesson Complete                 
+  
+
+step_05_010 
+
+You have now completed Lesson 5!  
+
+
+
+NEXT
+LESSON COMPLETE
+When the user clicks on this step, the screen displays the following text: "You have completed this lesson! 
+The user clicks on the highlighted next button.
+
+LESSONS
+1
+2
+3
+MENU
+Lesson 5
+Admit and Discharge a Patient
+Overview of how to admit and discharge a patient.
+4
+             LEARN
+5
+Steps
+Welcome
+Add Patient Button                  
+Scan Patient Barcode                 
+Enter Patient Details
++Add Patient
+Patient Confirmation 
+Discharging a Patient
+Patient Info Screen
+Discharge Patient Button
+Discharge Patient Confirm 
+Lesson Complete                 
+  
+
+step_05_010 

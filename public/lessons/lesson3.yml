@@ -1,0 +1,1446 @@
+# Lesson 03:  DocBox System Power On/Off     YAML Code
+text:
+  title: DocBox System Power On/Off
+  description: Text to describe the lesson
+modes: Learn,Test
+ordering: 3
+active: false
+images: Lsn3_a.png,Lsn3_b.png
+lms_url: ""
+overrideByMode:
+  Test:
+    text: {description: Please perform the Lesson 3 Power On/Off steps for this test., action: Click the correct items in sequence}
+    waitSwap: {ui.next: skip}
+panels:
+
+  steps:
+    label: STEPS
+    flavors:
+    list:
+
+    - id: step_03_010
+      text:
+        title: Welcome
+        description: This lesson will show you how to correctly power on and power off a set of connected DocBox equipment.
+        action: Click NEXT to continue.
+        note: The user will navigate through the list of steps to the left, clicking the highlighted \"next\" button to move from one screen to the next.
+      cameras:
+      highlights:
+      set:
+      wait_for:
+
+    - id: step_03_020
+      text:
+        title: Power-on Engage One Pro
+        description: Tap the power button on the HP Engage One Pro All in One PC to start the system.
+        action: Click on the _____ to ______.
+        note: When the user clicks on this step, the camera auto-navigates to the Engage One Pro, to center on the screen in the 3D environment. The user clicks on the highlighted power button on the virtual Engage One Pro and then clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_030
+      text:
+        title: Power-on Device Adapter
+        description: Press the switch on the back of each device adapter.
+        action: Click on the _____ to ______.
+        note: When the user clicks on this step, the camera auto-navigates to the device adapter, to center on the screen in the 3D environment. The user clicks on the highlighted switch on the back of the virtual device adapter and then clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_040
+      text:
+        title: Loading Screen
+        description: The HP Engage One Pro All in One PC will display a loading screen while the software and system are starting up.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen showing the loading screen. The user is prompted to click on the next button. The screen stays centered on the virtual EOP loading screen.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_050
+      text:
+        title: Lock Screen
+        description: Once the The HP Engage One Pro All in One system and software have booted up, the HP Engage One Pro All in One screen will display the Lock Screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera remains on with the virtual Engage One Pro screen in the 3D environment, to center on the user screen, and will display the Lock Screen. The user is prompted to click on the next button. The screen stays centered on the virtual EOP lock screen.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_060
+      text:
+        title: Power Off Engage One Pro
+        description: Tap the power button once on the HP Engage One Pro All in One PC.
+        action: Click on the _____ to ______.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro device in the 3D environment, to center on the user screen. The user clicks on the highlighted power button on the Engage One Pro device and then clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_070
+      text:
+        title: Shut Down Message
+        description: "When the power button on the HP Engage One Pro All In One PC is tapped, a shut down message appears on the screen. Note: The shutdown message could take several seconds to appear after tapping the power button."
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, which is displaying the shut down message. The user is prompted to click on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_080
+      text:
+        title: System Powers Off
+        description: The system powers off.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, showing a black screen. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_090
+      text:
+        title: Device Adapter Power Off
+        description: Press the switch on the back of each device adapter.
+        action: Click on the _____ to ______.
+        note: When the user clicks on this step, the camera auto-navigates to the back of the virtual device adapter in the 3D environment, to center on the user screen, and the user clicks on the highlighted device switch at the back of the device adapter. The user clicks on the highlighted next button..
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_100
+      text:
+        title: Device Adapter Display
+        description: If there is a display, the device adapter display powers off.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual device adapter display in the 3D environment, to center on the user screen, showing a powered off display. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_03_110
+      text:
+        title: Lesson Complete
+        description: You have now completed this Lesson! Please open another lesson.
+        action: Open a lesson in the top left menu
+        note: "When the user clicks on this step, the screen displays the following text: \"You have completed this lesson! Please click on the next button to begin Lesson 4.\" The user clicks on the highlighted next button to proceed to Lesson 4."
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tours:
+    label: TOURS
+    flavors:
+    list:
+
+    - id: tour_03_010
+      text:
+        title: Overview
+        description:
+        notes:
+      cameras: Overview
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_03_020
+      text:
+        title: Left of Bed
+        description:
+        notes:
+      cameras: LeftOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_03_030
+      text:
+        title: Right of Bed
+        description:
+        notes:
+      cameras: RightOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+---
+text: 
+  title: DocBox Login / Logout TEST
+  description: Login & logout of DocBox equipment in a hosital room.
+modes: Learn,Test
+images: ''
+lms_url: ''
+ordering: 7
+active: false
+overrideByMode: 
+  Test:  
+    text: {description: Please perform the Lesson 3 ________ steps for this test.}
+    waitSwap: {ui.next: skip}
+panels:
+  steps:
+    label: STEPS
+    flavors: sequence
+    list:
+    - id: step_03_010
+      text: 
+        title: Welcome to Lesson 3 | 03_10
+        description: In this lesson, you will ______ | 03_10
+        action: Click Next to continue | 03_10
+      wait_for: ui.next
+      cameras: Overview,Scanner
+      overrideByMode: {Test: {wait_for: skip}}
+    - id: step_03_20
+      text:
+        title: L3 - Barcode Scanner | 03_20
+        description: L3 - Textish words | 03_20
+        action: Click the Barcode Scanner | 03_20
+      wait_for: 3d.Scanner
+      overrideByMode: 
+        Test:  
+          description: {title: _03_20_, description: PER STEP BY MODE OVERRIDE!!!, action: A}
+    - id: step_03_30
+      text:
+        title: L3 - Power up | 03_30
+        description: L3 - Textish words | 03_30
+        action: Click the DocBox Power Button | 03_30
+      wait_for: 3d.DbPowerBtn
+    - id: step_03_40
+      text:
+        title: Login to DocBox | 03_40
+        description: DocBox requires that users log in to perform most actions in order to secure 
+          patient data & safety. Users enter a login and password. | 03_40
+        action: Click Login on the DocBox touchscreen  | 03_40
+      wait_for: db.Login
+    - id: step_03_100
+      text: 
+        title: THE END
+        description: Please open another lesson or try this lesson in another mode
+        action: Open a Lesson in the top left menu
+      wait_for: forever
+      cameras: Overview
+      overrideByMode: {Test: {text: {title: THE END, text: Please open another lesson or try this lesson in another mode, action: Open a lesson in the top left menu}   }}
+
+  tours: 
+    label: TOURS
+    flavors: explore
+    list:
+    - tourText:
+        title: Bedrail
+        description: ''
+      cameras: bedside
+      highlight: "/bed/bed_rails/right"
+      pointAt: "/bed/bed_rails/right/handle"
+      tour3dText:
+        title: Bed rails
+        description: "<br/>The bed rails are stainless steel for easy sanitization."
+    - tourText:
+        title: Overview
+        description: ''
+      cameras: overview

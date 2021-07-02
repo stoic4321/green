@@ -1,0 +1,1193 @@
+# Lesson 01:  Explore DocBox Equipment     YAML Code
+text:
+  title: Explore DocBox Equipment
+  description: Learn about each piece of DocBox equipment in a 3D, virtual hospital room.
+modes: Explore
+ordering: 1
+active: true
+images: Lsn1_a.png,Lsn1_b.png
+lms_url: ""
+overrideByMode:
+  Test:
+    text:
+    waitSwap:
+panels:
+
+  steps:
+    label: STEPS
+    flavors:
+    list:
+
+    - id: step_01_010
+      text:
+        title: Take Each Equipment Tour
+        description: The DocBox Clinician Solution is an integrated system that collects and manages information on an individual patient from healthcare professionals, medical, other devices, and hospital information systems at the point of care. In addition, the DocBox Clinician Solution provides the ability to run sophisticated software applications at the bedside. When you have explored all tours, open another lesson using the menu at the top left.
+        action: Click each Tour at the left. Load another Lesson when done.
+        note: The user will navigate through the list of steps to the left, clicking the highlighted \"next\" button to move from one screen to the next.
+      cameras: Overview,Scanner
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_01_020
+      text:
+        title: ____
+        description: ""
+        action: Click each Tour at the left. Load another Lesson when done.
+        note:
+      cameras:
+      highlights:
+      set:
+      wait_for: forever
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tours:
+    label: TOURS
+    flavors:
+    list:
+
+    - id: tour_01_010
+      text:
+        title: Hp Engage One Pro All In One Pc
+        description: This is the main user interface. It is a combination computer and touchscreen display. You will see the login screen showing when you first use the display.
+        note: When the user clicks on this step, the camera auto-navigates to the Engage One Pro, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Engage One Pro and then clicks on the highlighted next button.
+      cameras: EngageOnePro
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_020
+      text:
+        title: Advanced Fanless Hub
+        description: The Advanced Fanless Hub is connected to the HP Engage One Pro,\nthe additional 10\" external touch display (if present), the barcode scanner, and the primary device adaptor. It also provides additional connection ports for the HP Engage One Pro.
+        note: When the user clicks on this step, the camera auto-navigates to the AFH, to center on the screen in the 3D environment. The user clicks on the highlighted virtual AFH and then clicks on the highlighted next button.
+      cameras: FanlessHub
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_030
+      text:
+        title: Barcode Scanner Handset
+        description: This is the barcode scanner handset. \nWhen a new medical device is added, you will scan the barcode on the device using this handset. It also allows users/operators (doctors and nurses) to login to the system using the barcode on their ID badge. \n\n*Depending on setup, it can also be used to scan in the patient’s MRN, admitting the patient to the DocBox Clinician Assistant.
+        note: When the user clicks on this step, the camera auto-navigates to the Barcode Scanner, to center on the screen in the 3D environment. The user clicks on the highlighted virtual barcode scanner and then clicks on the highlighted next button.
+      cameras: BarcodeScanner
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_040
+      text:
+        title: Barcode Scanner Handset Holder
+        description: This Barcode Scanner Handset Holder is mounted next to the Engage One Pro, and holds the barcode scanner handset when not in use.
+        note: When the user clicks on this step, the camera auto-navigates to the Barcode Scanner Holder, to center on the screen in the 3D environment. The user clicks on the highlighted virtual barcode scanner holder and then clicks on the highlighted next button.
+      cameras: ScannerHolder
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_050
+      text:
+        title: Device Adapter
+        description: There are usually at least one (possibly 2) Device Adapters next to the bed. A Device Adapter is used to connect medical devices equipped with a serial port to the DocBox CLinician Solution.
+        note: When the user clicks on this step, the camera auto-navigates to the Device Adapter, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Device Adapter and then clicks on the highlighted next button.
+      cameras: DeviceAdapter
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_060
+      text:
+        title: Ethernet Switch
+        description: There are usually at least one (possibly 2) Ethernet Switches next to the bed. These allow medical devices equipped with an ethernet port/RJ45 port to be connected to DocBox Clinician Solution.\n\n* If one is present, it will be mounted next to the HP Engage One Pro.
+        note: When the user clicks on this step, the camera auto-navigates to the Ethernet Switch, to center on the screen in the 3D environment. The user clicks on the highlighted virtual ethernet switch and then clicks on the highlighted next button.
+      cameras: EthernetSwitch
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_070
+      text:
+        title: 10\" Touch Display
+        description: The 10\" Touch Display (if present) is an additional monitor sometimes present in the room.
+        note: When the user clicks on this step, the camera auto-navigates to the 10\" Touch Display, to center on the screen in the 3D environment. The user clicks on the highlighted virtual 10\" touch display and then clicks on the highlighted next button.\n
+      cameras: TenInchTouchDisplay
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_080
+      text:
+        title: Support Arm
+        description: Supports the Engage One Pro. Allows some positioning and convenience for the operator. Attached to the head wall (wall at the head of the bed) or equipment column, depending on the facility.
+        note: When the user clicks on this step, the camera auto-navigates to the Support Arm, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Support Arm and then clicks on the highlighted next button.
+      cameras: SupportArm
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_090
+      text:
+        title: Barcode Scanner Support
+        description: The Scanner Support holds the handheld barcode scanner. Operator can position equipment for convenient use. \nThe support is attached to the head wall (wall at the head of the bed) or a specialized equipment column, depending on the facility.
+        note: When the user clicks on this step, the camera auto-navigates to the Barcode Scanner Support, to center on the screen in the 3D environment. The user clicks on the highlighted virtual Barcode Scanner Support and then clicks on the highlighted next button.
+      cameras: ScannerSupport
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_01_100
+      text:
+        title: Cables
+        description: The DocBox Clinician Assistant equipment is connected using network cables, USB A & C cables and power cables.
+        note: When the user clicks on this step, a pop up picture of the different cables shows on the screen. The user clicks on the highlighted next button.
+      cameras: Cables
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

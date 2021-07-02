@@ -1,0 +1,1446 @@
+# Lesson 04:  DocBox User Login Logout     YAML Code
+text:
+  title: DocBox User Login Logout
+  description: Text to describe the lesson
+modes: Learn,Test
+ordering: 4
+active: false
+images: Lsn4_a.png,Lsn4_b.png
+lms_url: ""
+overrideByMode:
+  Test:
+    text: {description: Please perform the the Login Logout steps for this test. Next-button-only steps will auto-skip., action: Click the correct items in sequence}
+    waitSwap: {ui.next: skip}
+panels:
+
+  steps:
+    label: STEPS
+    flavors:
+    list:
+
+    - id: step_04_010
+      text:
+        title: "Welcome: Lesson 4 - Docbox Login And Logout"
+        description: Welcome to this overview of how to properly login to and logout of the DocBox touch interface in a hospital room.\n\nThe DocBox Clinician Solution allows more than one user to be logged on at once to facilitate patient care, and allows for login using the barcode scanner or manual entry. This guide will show you how to login both ways.
+        action: Click NEXT to continue.
+        note: The user will navigate through the list of steps to the left, clicking the highlighted \"next\" button to move from one screen to the next.
+      cameras:
+      highlights:
+      set:
+      wait_for:
+
+    - id: step_04_020
+      text:
+        title: User Login
+        description: There are two ways to login a user. Either with the barcode scanner (if one is available) or through manual entry of the user login details.\n\nFirst, make sure the HP Engage One Pro All in One PC is displaying the login screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the virtual Engage One Pro screen in the 3D environment, to center on the user screen, showing the login screen. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_030
+      text:
+        title: User Login - Barcode Scanner Option
+        description: If your DocBox Clinician System is equipped with a barcode scanner, follow the next step showing how to scan the user barcode. If you don’t have a barcode scanner, go to the \"Tap Username Field\" step.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the barcode scanner in the 3D environment. The user clicks on the highlighted barcode scanner and then the user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_040
+      text:
+        title: User Login - Scan User Barcode
+        description: Remove the barcode scanner from its cradle and use it to scan your supplied user barcode.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the barcode scanner in the 3D environment. The user clicks on the highlighted barcode scanner, the supplied user barcode is then highlighted and the user clicks on that. The scanner auto-navigates to the user barcode and scans it.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_050
+      text:
+        title: User Login - Manual Entry - Tap Username Field
+        description: If you are not able to scan your user barcode, tap on the username field on the HP Engage One Pro All in One interactive screen. A virtual keyboard will appear.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP login screen and clicks on the highlighted \"username\" button.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_060
+      text:
+        title: User Login - Manual Entry - Type Username
+        description: Manually type in your username into the username field and tap the \"ENTER\" button.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP username screen with the virtual keyboard showing, and clicks on the highlighted \"username\" field.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_070
+      text:
+        title: User Login - Manual Entry - Tap Login
+        description: Tap the \"LOGIN\" button.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP username screen and clicks on the highlighted \"login\" button.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_080
+      text:
+        title: User Login - Other Users Login
+        description: After a user has logged in, others can login to signify additional personnel at the bedside. This can be accomplished by scanning another user barcode or tapping on the \"OPERATOR PROFILE\" button and manually entering a username.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive screen showing the \"operator profile.\"\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_090
+      text:
+        title: User Login - Other Users Login - Barcode Scanner
+        description: Additional users can be logged into the system by scanning their assigned user barcodes with the barcode scanner.\n\nRemove the barcode scanner from its cradle and use it to scan the assigned user barcode.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the barcode scanner. The user clicks on the barcode scanner, it comes out of its cradle and the user then clicks on the user barcode. The scanner moves to the user barcode and \"scans\" the barcode.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_100
+      text:
+        title: User Login - Other Users Login - Manual Entry
+        description: If you are not able to scan the user barcode, tap on the \"OPERATOR PROFILE\" button on the left of the HP Engage One Pro All in One PC interactive screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive screen. The user clicks on the highlighted \"operator profile\" button.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_110
+      text:
+        title: User Login - Other Users Login - Manual Entry
+        description: Tap the \"LOGIN\" button on the Operator Profiles screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive Operator Profiles screen. The user clicks on the highlighted \"login\" button.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_120
+      text:
+        title: User Login - Other Users Login - Manual Entry
+        description: Manually type in the username and tap the \"ENTER\" button.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive username screen. The user clicks on the highlighted \"username\" field and the onscreen keyboard will appear. The \"enter\" button then highlights and the user clicks on that.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_130
+      text:
+        title: User Login - Other Users Login - Login Button
+        description: Tap on the \"LOGIN\" button.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive username screen. The user clicks on the highlighted \"login\" button.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_140
+      text:
+        title: User Login - Other Users Login - Home Button
+        description: "Tap the \"HOME\" button to confirm that you have successfully logged into the system. On this screen, check that your Operator Profile is listed. If you do not see your Operator Profile, you have not successfully logged in and must try again.\n\n*Note: The DocBox Clinician Assistant Solution allows more than one user to be logged in at the same time to facilitate patient care."
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive login screen. The user clicks on the highlighted \"home\" button and the screen changes to the home screen with \"test\" operator profiles listed.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_150
+      text:
+        title: User Logout
+        description: All users must log out when they are no longer using the DocBox Clinician Assistant Solution (i.e., when a user has finished their shift, or when a user has left the area).\n\nUsers can log out either using the barcode scanner, or manually.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive login screen. Nothing else happens.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_160
+      text:
+        title: User Logout - Barcode Scanner Option
+        description: Scan your supplied user barcode using the barcode scanner. Scanning your user barcode results in automatically logging out the user.\n\nRemove the barcode scanner from its cradle and use it to scan the assigned user barcode.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the barcode scanner. The user clicks on the barcode scanner, it comes out of its cradle and the user then clicks on the user barcode. The scanner moves to the user barcode and \"scans\" the barcode.\vThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_170
+      text:
+        title: User Logout - Manual Entry Option
+        description: If you are not able to scan the user barcode to logout automatically, tap on the \"OPERATOR PROFILE\" button on the left of the HP Engage One Pro All in One PC interactive screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the EOP interactive screen. The user clicks on the highlighted \"operator profile\" button.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_180
+      text:
+        title: User Logout - Logout Button
+        description: Tap the \"LOGOUT\" button.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted \"Logout\" button.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_190
+      text:
+        title: User Logout - Select User Profiles
+        description: Select one or more user profiles.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted operator profile to select it.\nThe user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_200
+      text:
+        title: User Logout - Final Logout
+        description: Tap the \"LOGOUT SELECTED\" button in the bottom right corner of the screen.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to the Operator Profile Screen. The user clicks on the highlighted \"Logout Selected\" button. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_04_210
+      text:
+        title: Lesson Complete
+        description: CONGRATULATIONS! You have now completed this Lesson! Please open another lesson using the menu at the top left.
+        action: Open a lesson in the top left menu
+        note: "When the user clicks on this step, the screen displays the following text: \"You have completed this lesson! Please click on the next button to begin Lesson 5.\" The user clicks on the highlighted next button to proceed to Lesson 5."
+      cameras:
+      highlights:
+      set:
+      wait_for: forever
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tours:
+    label: TOURS
+    flavors:
+    list:
+
+    - id: tour_04_010
+      text:
+        title: Overview
+        description:
+        notes:
+      cameras: Overview
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_04_020
+      text:
+        title: Left of Bed
+        description:
+        notes:
+      cameras: LeftOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_04_030
+      text:
+        title: Right of Bed
+        description:
+        notes:
+      cameras: RightOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

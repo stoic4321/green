@@ -1,0 +1,1446 @@
+# Lesson 02:  Set up Docbox Equipment     YAML Code
+text:
+  title: Set up Docbox Equipment
+  description: Overview of how to setup DocBox equipment in a hosital room.
+modes: Learn,Test
+ordering: 2
+active: false
+images: Lsn2_a.png,Lsn2_b.png
+lms_url: ""
+overrideByMode:
+  Test:
+    text: {description: Please perform the DocBox Setup steps for this test., action: Click the correct items in sequence}
+    waitSwap: {ui.next: skip}
+panels:
+
+  steps:
+    label: STEPS
+    flavors:
+    list:
+
+    - id: step_02_010
+      text:
+        title: Welcome
+        description: This lesson will demonstrate to you how to mount the equipment around the bedside. It will vary somewhat by facility. For the purposes of this demonstration, we will be mounting the equipment to the equipment column.
+        action: Click NEXT to continue.
+        note: The user will navigate through the list of steps to the left, clicking the highlighted \"next\" button to move from one screen to the next.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_020
+      text:
+        title: Mount/install Support Equipment
+        description: If not already mounted, mount the support arm to the equipment column.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, a pop up picture shows on the screen of the mounted support arm attached to the equipment column. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.SupportArm
+
+    - id: step_02_030
+      text:
+        title: Advanced Fanless Hub
+        description: If not already mounted, mount the Advanced Fanless Hub to the equipment column.
+        action: Click on the ______ to _____.
+        note: When the user clicks on this step, the camera auto-navigates to the AFH, to center on the screen in the 3D environment. The user clicks on the highlighted AFH and then clicks on the equipment column. The AFH then moves to the equipment column. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.FanlessHub
+
+    - id: step_02_040
+      text:
+        title: Barcode Scanner Support Arm
+        description: Ensure the Barcode Scanner Support arm is attached to the Main Support Arm.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, a picture of the mounted barcode scanner support arm is shown. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.ScannerArm
+
+    - id: step_02_050
+      text:
+        title: Prepare Engage One Pro
+        description: "To prepare the Engage One Pro, you will need to: unbox it, mount it, and plug in network cables."
+        action:
+        note: The user clicks on the highlighted next button to begin the installation process.
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_060
+      text:
+        title: Unbox
+        description: Remove the Engage One Pro from the box and ensure that the 2 cables connected (as shown in the picture) to it at the base are ready to connect.
+        action: Click NEXT to continue.
+        note: When the user clicks on this step, the camera auto-navigates to a picture of the Engage One Pro with the cables connected. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.EngageOnePro
+
+    - id: step_02_070
+      text:
+        title: Mount
+        description: Using the bolt holes on the Slim Vesa Mount, mount the head unit to the support arm.
+        action: Click the Slim Vesa Mount to mount the Head Unit to the Support Arm.
+        note: When the user clicks on this step, a picture of the Slim Vesa Mount (looking at the bolt holes) is shown on the screen. The user clicks on the highlighted Slim Vesa Mount and this prompts a video sequence of the mount moving to the support arm. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.VesaMount
+
+    - id: step_02_080
+      text:
+        title: Network Cables
+        description: Connect the other end of the network cable to a hospital network jack (typically located near the bedside).
+        action: PROBLEM MISSING PRIOR STEP
+        note: When the user clicks on this step, a picture of the network jack with the cable inserted is shown on the screen and they see it become connected. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.NetworkCable1
+
+    - id: step_02_090
+      text:
+        title: Barcode Scanner Usb
+        description: If not already installed connect the USB barcode scanner cable to the barcode scanner.
+        action: Click the Barcode Scanner Usb cable to plug it into ________.
+        note: When the user clicks on this step, a picture of the barcode scanner with the USB cable attached is shown and then they see it become connected. The user clicks on the highlighted next button.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.BarcodeUsb1
+
+    - id: step_02_100
+      text:
+        title: Attach Barcode Scanner
+        description: Attach the Barcode Scanner Cradle to the Barcode Scanner Support Arm.
+        action: Click the Barcode Scanner Cradle to attach it.
+        note: When the user clicks on this step, a picture of the the barcode scanner cradle mounted onto the support arm is shown. The user sees the scanner connected. The user then clicks on the highlighted next button.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.Scanner
+
+    - id: step_02_110
+      text:
+        title: Connect Advanced Fanless Hub
+        description: "The Advanced Fanless Hub connects to the: Touch Display, the Barcode Scanner, the ICE unit, the Ethernet Switch, and to Power."
+        action: PROBLEM MANY CLICKS IN STEP
+        note: PROBLEM MANY CLICKS IN STEP The user will click on each of these and watch as they become connected.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.FanlessHub
+
+    - id: step_02_120
+      text:
+        title: To Touch Display
+        description: Connect the USB-C cable from the main touch display unit to the USB-C port of the Advanced Fanless Hub. Ensure you are using the proper port, which is the USB-C port closest to the main power port. Finger-tighten the retaining screw on the cable.
+        action: PROBLEM TWO CLICKS IN STEP
+        note: PROBLEM TWO ENDS The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.TouchUsb1
+
+    - id: step_02_130
+      text:
+        title: To Barcode Scanner
+        description: Connect the USB-A cable from the barcode scanner to any 1 of the 4 USB ports on the AFH.
+        action: PROBLEM WITH any 1 of the 4 PROBLEM TWO CLICKS IN STEP
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.ScannerUsb1
+
+    - id: step_02_140
+      text:
+        title: Advanced Fanless Hub Network Cable
+        description: Connect one end of ICE network cable (cat5e, black, 6ft) to the network port of the Advanced Fanless Hub.
+        action: Click the Network Cable to connect it to the Advanced Fanless Hub.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.FanlessHubNetwork1
+
+    - id: step_02_150
+      text:
+        title: "- To Ethernet Switch"
+        description: Connect the other end of the network cable to the Ethernet Switch (in some cases, there may be more than one switch. If you require extra ethernet ports for additional equipment, please also attach the second ethernet switch.
+        action: Click the Network Cable to connect it to the Ethernet Switch.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.FanlessHubNetwork2
+
+    - id: step_02_160
+      text:
+        title: To Power
+        description: Connect the power connector of the power adapter to the power port of the Advanced Fanless Hub and then connect the power adapter to a wall outlet.
+        action: PROBLEM TWO CLICKS IN STEP
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.PowerAdapterAC1,3d.PowerAdapterAC2
+
+    - id: step_02_170
+      text:
+        title: Mount Optional 10\" Touch Display
+        description: If not already connected, connect the keyed end of the flat USB-C cable to the back connector of the 10\" External Touch Display.\n\nConnect the other end of the flat USB-C cable to the USB-C port of the Advanced Fanless Hub. (The USB-C port closest to one end of the AFH.)
+        action: PROBLEM TWO CLICKS IN STEP
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.TenInchTouchUsb1,3d.FanlessHubUsbAll
+
+    - id: step_02_180
+      text:
+        title: Connect Ethernet Switch
+        description: The Ethernet Switch needs to be connected to the Device Adapter using a network cable and to power using a Power Adapter.
+        action: PROBLEM FOUR CLICKS IN STEP
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.DeviceAdapterCat51,3d.EthernetSwitchAll,3d.DeviceAdapterAC1,3d.DeviceAdapterAC2
+
+    - id: step_02_190
+      text:
+        title: Cat5 From Ethernet Switch...
+        description: Connect one end of a (possibly color-coded) network cable to the Ethernet Switch.
+        action: Click the Cat5 cable to plug it into the Ethernet Switch.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.DeviceAdapterCat51
+
+    - id: step_02_200
+      text:
+        title: ...To Device Adapter
+        description: Connect the other end of that network cable to the network port (labelled \"Network\") of the Device Adapter.
+        action: Click the Cat5 cable to plug it into the Device Adapter.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.DeviceAdapterCat52
+
+    - id: step_02_210
+      text:
+        title: From Switch Power Port...
+        description: Connect one end of the Ethernet Switch power adapter to the power port of the Ethernet Switch.
+        action: Click the Power Adapter to plug it into the Ethernet Switch.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.EthernetSwitchAC1
+
+    - id: step_02_220
+      text:
+        title: ...To Wall Outlet
+        description: Connect the other end of the Ethernet Switch power adapter cable to a Wall Outlet.
+        action: Click the Power Adapter AC plug to plug it in.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.EthernetSwitchAC2
+
+    - id: step_02_230
+      text:
+        title: Connect Device Adapters
+        description: In addition to a network connection to the Ethernet Switch, the Device Adapter needs to be connected to power.
+        action: Click NEXT to continue.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_240
+      text:
+        title: From DA Power Port...
+        description: Connect one end of the Device Adapter (DA) power adapter to the Power Port of the Device Adapter.
+        action: Click _________.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.DeviceAdapterAC1
+
+    - id: step_02_250
+      text:
+        title: ...To Wall Outlet
+        description: Connect the other end of the power adapter cable to a Wall Outlet.
+        action: Click _________.
+        note: The user will click on each of these elements and watch as they become connected. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.DeviceAdapterAC2
+
+    - id: step_02_260
+      text:
+        title: Final Setup Tasks
+        description: "The final steps of setup include: neatening the cables, placing the barcode scanner, powering up, and running through the checklist."
+        action: Click NEXT to continue.
+        note: The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_270
+      text:
+        title: Neaten Cables
+        description: Click the cables to neaten them.
+        action: Click _________.
+        note: HUGE ANIMATION TASK The user will tap the cables and watch as a neatened cable state is shown. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.CablesAll
+
+    - id: step_02_280
+      text:
+        title: Place Barcode Scanner
+        description: The Barcode Scanner should always rest in its cradle when not in use to protect the optical elements from damage.
+        action: Click on the Barcode Scanner to place it in its Cradle.
+        note: The user will click on the barcode scanner and watch as it is placed in the barcode scanner cradle. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: 3d.Scanner
+
+    - id: step_02_290
+      text:
+        title: Power Up
+        description: Power up all equipment.
+        action: Click NEXT to continue.
+        note: The user will click on each of the pieces of equipment and watch as they become powered up. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_300
+      text:
+        title: Checklist
+        description: Neaten up all cabling - ensure there is no excess cable. Make sure no cabling is pinched or bent sharply. Secure cables with zip-ties. Cut and remove excess zip-ties.\nSeat the barcode scanner handset into the barcode scanner cradle.\nPower up the equipment.\nMove through the component checklist to ensure all components are connected and functioning as expected.
+        action: PROBLEM MANY STEPS IN ONE
+        note: The user will click on each of these checklist items and a green checkmark will be shown next to the checklist step. The user then clicks on the next button to go onto the next step.\n
+      cameras:
+      highlights:
+      set:
+      wait_for: ui.next
+
+    - id: step_02_310
+      text:
+        title: Lesson Complete
+        description: You have now completed this Lesson! Please open another lesson.
+        action: Open a lesson in the top left menu
+        note: "Adjusted to match UX of app. Was...You have now completed Lesson 2! When you click on the next button you will be taken to the welcome screen for Lesson 3, or open a lesson in the top left menu.When the user clicks on this step, the screen displays the following text: \"You have completed this lesson! Please click on the next button to begin Lesson 3.\" The user clicks on the highlighted next button to proceed to Lesson 3.\n"
+      cameras:
+      highlights:
+      set:
+      wait_for: forever
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tours:
+    label: TOURS
+    flavors:
+    list:
+
+    - id: tour_02_010
+      text:
+        title: Overview
+        description:
+        notes:
+      cameras: Overview
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_02_020
+      text:
+      title: Left of Bed
+      description:
+        notes:
+      cameras: LeftOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+    - id: tour_02_030
+      text:
+        title: Right of Bed
+        description:
+        notes:
+      cameras: RightOfBed
+      highlights:
+      set:
+      pointAt:
+      tour3dText:
+        title:
+        description:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
