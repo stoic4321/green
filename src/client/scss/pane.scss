@@ -1,0 +1,65 @@
+.pane {
+  position: relative;
+  height: 100%;
+  @include box;
+  &__transparent-wrapper {
+    padding: 4rem 2rem 3rem 5rem;
+    height: 100%;
+  }
+  &__overflow-row {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__pane-header {
+    h2 {
+      line-height: 1;
+    }
+  }
+
+  &__title {
+    &-bubble {
+      display: flex;
+      justify-content: center;
+      @include border-radius-lg;
+      font-weight: bold;
+      border: 5px solid $white;
+      &.minimized {
+        justify-content: unset;
+      }
+    }
+    &-text {
+      width: 100%;
+      border-left: 0.5rem solid $white;
+      border-radius: 0 1.3rem 1.3rem 0;
+      display: flex;
+      align-items: center;
+      min-height: 5rem;
+    }
+    &-icon {
+      border-radius: 1.3rem 0 0 1.3rem;
+      @include center-it;
+      background-color: $teal-dark;
+      padding: 1rem;
+      img {
+        width: 3rem;
+        height: 3rem;
+      }
+    }
+  }
+  &__close-btn {
+    @include circular-btn($teal, 4rem);
+    @include center-it;
+    font-size: 2.4rem;
+    &.grow {
+      padding: 0.2rem;
+    }
+    &.up-left {
+      position: relative;
+      top: -8rem;
+      left: -1.8rem;
+    }
+  }
+}

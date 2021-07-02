@@ -1,0 +1,37 @@
+@import '../../scss/bootstrap_variables';
+@import '../../scss/mixins';
+
+.lessons {
+  position: absolute;
+  top: 6rem;
+  left: -3.1rem;
+  width: 5.5rem;
+  @include white-border-lg;
+  // @include border-radius-lg;
+  border-radius: 1rem;
+  @include center-it;
+  background-color: $teal-dark;
+  &__label {
+    padding: .25rem;
+    border-bottom: 5px solid $white;
+    p {
+      font-size: .8rem;
+    }
+  }
+  &__button {
+    @include circular-btn($teal);
+    border: none;
+    color: $teal-dark;
+    width: 3.3rem;
+    height: 3.3rem;
+    margin: .5rem 0;
+    font-weight: 900;
+    font-size: 1.8rem;
+    border: 2px solid transparent;
+    &:hover, &.active {
+      color: $white;
+      border: 2px solid $white;
+      background: $teal;
+    }
+  }
+}

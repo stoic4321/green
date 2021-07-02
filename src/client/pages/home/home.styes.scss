@@ -1,0 +1,68 @@
+@import '../../scss//bootstrap_variables';
+@import '../../scss/bootstrap_variables';
+@import '../../scss/mixins';
+
+.layout {
+  display: grid;
+  grid-template-columns: auto auto 25% 23%;
+  grid-template-rows: 20rem auto 25%;
+  grid-template-areas:
+    'menu .      docbox . '
+    'menu threed docbox .'
+    'menu text   text   text';
+  column-gap: 5rem;
+  background: #555;
+}
+
+.pane-wrapper{
+  z-index: 10;
+}
+
+.menu-wrapper {
+  grid-area: menu;
+  height: 100vh;
+}
+.docbox-wrapper {
+  grid-area: docbox;
+  height: 80vh;
+}
+.text-wrapper {
+  grid-area: text;
+}
+.dbg-wrapper {
+  width: 30rem;
+  grid-area: debug;
+  height: 80vh;
+}
+
+.threed-wrapper {
+  grid-area: threed;
+  height: 28vh;
+}
+
+.docbox-page {
+  background-image: url('/public/DocBoxish.png');
+  background-size: cover;
+  header {
+    background: #000000b0;
+  }
+  .title, button, code, span {
+    background:black;
+    color: cyan;
+  }
+  code, span {
+    padding: 2px;
+  }
+}
+
+
+.fake-3d {
+  background-image: url('/public/room.png');
+  background-size: cover;
+  z-index: -10;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}

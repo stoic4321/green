@@ -1,0 +1,74 @@
+@import '../../scss/bootstrap_variables';
+@import '../../scss/mixins';
+
+
+@keyframes glowing_anim_fill {
+  0% {
+    fill: white;
+  }
+  95% {
+    fill: white;
+  }
+  98% {
+    fill: $info;
+  }
+  100% {
+    fill: white;
+  }
+}
+
+
+.text-pane {
+  padding: 1rem;
+  &__description {
+    margin-top: -3rem;
+    margin-left: 1.5rem;
+    // align-items: center;
+    text-shadow: 0 0 4px black;
+    align-items:top;
+    span {
+      display: inline;
+    }
+  }
+
+  &__idea {
+    position: relative;
+    top: -1.4rem;
+    color: $light;
+    float: left;
+    svg {
+      path {
+        fill: white;
+        filter: drop-shadow(0 0 1rem black)
+      }
+      path:nth-child(1) {
+        animation: glowing_anim_fill 4000ms infinite;
+      }
+    }
+  }
+  &__close_btn {
+    margin-right: -3rem;
+  }
+  &__overflow-row {
+    top: -4.8rem;
+  }
+  &__title {
+    background-color: $gray3;
+    &-bubble {
+      margin-left: 1.5rem;
+    }
+  }
+  &__next-row {
+    position: absolute;
+    right: 2.5rem;
+    bottom: -2.5rem;
+    button {
+      @include white-border-lg;
+      border-radius: 2.5rem;
+      background-color: $teal;
+      color: $white;
+      font-size: 2rem;
+    }
+  }
+
+}

@@ -1,0 +1,79 @@
+@import '../../scss/bootstrap_variables';
+@import '../../scss/mixins';
+
+.menu {
+  width: 35rem;
+  &__overflow-row {
+    top: -3.3rem;
+  }
+  &__hamburger-btn {
+    @include circular-btn($green, 5.5rem);
+    padding: 0.5rem;
+    margin-left: -3.0rem;
+    display: flex;
+    @include center-it;
+    flex-direction: column;
+    font-size: .8rem;
+    &.minimized {
+      margin: 1.5rem 0 0 2.5rem;
+    }
+  }
+  &__close-btn {
+    margin-right: -2.15rem;
+  }
+  &__title {
+    background-color: $green;
+    &-text {
+    }
+  }
+  &__box-wrapper {
+    height: 90%;
+    margin-left: 4rem;
+    display: flex;
+    flex-direction: column;
+  }
+  &__overflow-box {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    margin-right: 1rem;
+    padding: 1rem;
+    border: 2px solid $teal;
+    @include border-radius-lg;
+    overflow-y: auto;
+  }
+  &__full-box {
+    margin-right: 1rem;
+    padding: 1rem;
+    border: 2px solid $teal;
+    @include border-radius-lg;
+  }
+  .launch-btn {
+    @include white-border-lg;
+    border-radius: 2.5rem;
+    // background-color: $teal;
+    color: $white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+    padding: 0 2rem;
+    display: inline-block;
+  }
+  &__settings {
+    position:absolute;
+    bottom: 7rem;
+    height: 40rem;
+    left: 1.2rem;
+    width: 32.2rem;
+    background: $teal;
+    border-color: $white;
+    padding: 2rem 3rem;
+    overflow: visible;
+    background: $info;
+  }
+  &__settings_close {
+    position: absolute;
+    top: -2rem;
+    right: 0rem;
+  }
+}

@@ -1,0 +1,156 @@
+@import './bootstrap_variables';
+@import '/node_modules/bootstrap/scss/functions';
+
+//
+// Bootstrap Breakpoints
+//
+
+$small-breakpoint: map-get($grid-breakpoints, 'sm') !default;
+$medium-breakpoint: map-get($grid-breakpoints, 'md') !default;
+$large-breakpoint: map-get($grid-breakpoints, 'lg') !default;
+$xl-breakpoint: map-get($grid-breakpoints, 'xl') !default;
+
+$mobile-breakpoint: $medium-breakpoint !default;
+$screen: 'only screen' !default;
+
+$mobile-margin-compensation: -15px;
+
+//
+// Generic Responsive Helpers
+//
+
+@mixin mobile {
+  @media #{$screen} and (max-width:#{$mobile-breakpoint - 1}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media #{$screen} and (min-width:#{$mobile-breakpoint}) {
+    @content;
+  }
+}
+
+//
+// Size Specific Responsive Helpers
+//
+
+@mixin small {
+  @media #{$screen} and (max-width:#{$medium-breakpoint - 1}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media #{$screen} and (min-width:#{$medium-breakpoint}) and (max-width:#{$large-breakpoint - 1}) {
+    @content;
+  }
+}
+
+@mixin large {
+  @media #{$screen} and (min-width:#{$large-breakpoint}) and (max-width:#{$xl-breakpoint - 1}) {
+    @content;
+  }
+}
+
+@mixin xl {
+  @media #{$screen} and (min-width:#{$xl-breakpoint}) {
+    @content;
+  }
+}
+
+//
+// VW Units
+//
+
+$desktop-context: 1440;
+$mobile-context: 320;
+
+//
+// Site Wide Styles
+//
+
+@mixin image-as-button {
+  border: none;
+  background-color: transparent;
+}
+
+@mixin center-it {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+//
+// Development Helpers
+//
+
+@mixin responsive-border {
+  border: solid 2px $black;
+
+  @include small {
+    border-color: $red;
+  }
+
+  @include medium {
+    border-color: $yellow;
+  }
+
+  @include large {
+    border-color: $blue;
+  }
+
+  @include xl {
+    border-color: $green;
+  }
+}
+
+@mixin box-shadow {
+  box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.25);
+}
+
+@mixin border-radius-lg {
+  border-radius: 2rem;
+}
+
+@mixin border-radius-sm {
+  border-radius: 1rem;
+}
+
+@mixin teal-border-lg {
+  border: 0.5rem solid $teal;
+}
+
+@mixin white-border-lg {
+  border: 0.5rem solid $white;
+}
+
+@mixin white-border-sm {
+  border: solid 2px $white;
+}
+
+@mixin teal-border-sm {
+  border: 0.2rem solid $teal;
+}
+
+@mixin box {
+  @include border-radius-lg;
+  @include teal-border-lg;
+  @include box-shadow;
+  background-color: $teal80;
+}
+
+@mixin circular-btn($color, $size: 0) {
+  @include white-border-sm;
+  background: $color;
+  color: $white;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  @if $size != 0 {
+    width: $size;
+    height: $size;
+  }
+  // &:hover {
+  //   border: 2px solid $white;
+  // }
+}

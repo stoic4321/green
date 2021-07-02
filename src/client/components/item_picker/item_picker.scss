@@ -1,0 +1,39 @@
+@import '../../scss/bootstrap_variables';
+@import '../../scss/mixins';
+
+.item-picker {
+  &__button {
+    text-align: start;
+    background-color: $teal;
+    border: 2px solid $info;
+    color: $white;
+    @include border-radius-sm;
+    @include teal-border-sm;
+    margin: 0.5rem 0;
+    &:hover,
+    &.active {
+      color: $gray3;
+      background: $white;
+    }
+  }
+}
+.steps,
+.tours {
+  height: 100%;
+}
+
+.steps__list,
+.tours__list {
+  height: 100%;
+  padding-right: 1rem;
+  overflow-y: scroll;
+  &::-webkit-scrollbar {
+    width: 6px;
+    border-radius: 6px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background-color: $teal;
+  }
+}

@@ -1,0 +1,76 @@
+@import './bootstrap_variables.scss';
+@import './mixins.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  zoom: 2;
+  color: $white;
+  background-color: transparent;
+
+  h1 {
+    font-size: $h1-font-size;
+    line-height: $line-height-base;
+    color: $white;
+  }
+
+  h2 {
+    font-size: $h2-font-size;
+    line-height: $line-height-base;
+    color: $white;
+  }
+
+  h3 {
+    font-size: $h3-font-size;
+    line-height: $line-height-base;
+    color: $white;
+  }
+
+  h4 {
+    font-weight: 900;
+    font-size: 2.4rem;
+    line-height: 2rem;
+    // font-size: $h4-font-size;
+    // line-height: $line-height-base;
+    color: $white;
+  }
+
+  h5 {
+    font-size: 2.2rem; //$h5-font-size;
+    line-height: 2rem; //$line-height-base;
+    letter-spacing: 0.1px;
+    color: $white;
+    font-weight: 900;
+  }
+
+  h6 {
+    font-size: $h6-font-size;
+    line-height: $line-height-base;
+    color: $white;
+  }
+
+  p {
+    font-size: $font-size-base;
+    line-height: 2rem; //$line-height-base;
+    letter-spacing: .5px;
+    color: $white;
+    font-weight: 500;
+  }
+
+  li {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $white;
+  }
+  a {
+    color: $blue;
+  }
+
+  input {
+    font-size: $font-size-base;
+  }
+}
